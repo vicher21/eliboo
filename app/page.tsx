@@ -164,7 +164,7 @@ export default function Home() {
   function checkoutWhatsApp() {
     // Reemplaza este valor por el WhatsApp real de EliBoo.
     // Usa indicativo de país, sin +, espacios ni guiones.
-    const whatsappNumber = '57XXXXXXXXXX';
+    const whatsappNumber = '573135609207';
 
     if (cart.length === 0) {
       alert('Tu carrito está vacío. ¡Agrega tus juguetes favoritos! 💗');
